@@ -4,16 +4,4 @@
 \paperw11900\paperh16840\margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx566\tx1133\tx1700\tx2267\tx2834\tx3401\tx3968\tx4535\tx5102\tx5669\tx6236\tx6803\pardirnatural
 
-\f0\fs24 \cf0 192.168.83.56 webresource.ctrip.com\
-192.168.83.56 webresource.english.ctrip.com\
-192.168.83.56 pic.ctrip.com\
-192.168.83.56 pic.english.ctrip.com\
-192.168.83.56 webresint.sh.ctriptravel.com\
-192.168.83.56 picint.sh.ctriptravel.com\
-192.168.83.56 webresource.c-ctrip.com\
-192.168.83.56 pic.c-ctrip.com\
-192.168.83.56 img01.c-ctrip.com\
-192.168.83.56 img02.c-ctrip.com\
-192.168.83.56 img03.c-ctrip.com\
-222.73.95.184 pkgpic.c-ctrip.com\
-222.73.233.210 pkgpic.ctrip.com}
+\f0\fs24 \cf0 2222git sta}
